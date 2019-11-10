@@ -1,11 +1,11 @@
 # Site settings
-title: teddyzhang29
+title: 极寇网络
 header-img: img/header/index.jpg
 email: teddyzhang29@gmail.com
-description: "有意瞄准，无意击发"
+description: "用心做好一件事"
 baseurl: ""
 url: ""
-github_username:  teddyzhang29
+github_username:  geekco-ltd
 port: 4000
 # Build settings
 markdown: kramdown
